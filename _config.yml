@@ -51,7 +51,7 @@ author:
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Shuxian JIN    # eg. daattali
+  linkedin: shuxian-jin-349306120   # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -88,7 +88,6 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-linkedin: "http://www.linkedin.com/in/shuxian-jin-349306120/"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
