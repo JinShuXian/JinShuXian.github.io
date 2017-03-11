@@ -51,7 +51,7 @@ author:
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Shuxian Jin    # eg. daattali
+  linkedin: Shuxian JIN    # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -80,9 +80,9 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  google: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
