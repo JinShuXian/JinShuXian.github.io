@@ -22,12 +22,12 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://www.researchgate.net/profile/Shuxian_Jin2"
+  About Me: "https://www.researchgate.net/profile/Shuxian_Jin2/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://github.com//JinShuXian.github.io"
+  Author's home: "https://github.com//JinShuXian.github.io/"
   RStats: 
 
 
