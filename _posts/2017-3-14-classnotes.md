@@ -13,5 +13,4 @@ comments: true
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 $$ \int^b_a f(x)dx=F(b)-F(a) $$
 
-*  bookdown（https://bookdown.org/)
-上面有很多参考书！
+*  [bookdown](https://bookdown.org/)上面有很多参考书！
