@@ -9,14 +9,17 @@ comments: true
 * 用码云把github的东西转过来
 
 * 输入代码出数学公式
-    
-    * 代码在此
-    * $$ \int^b_a f(x)dx=F(b)-F(a) $$
+  * 代码在此`<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>`
+  * $$ \int^b_a f(x)dx=F(b)-F(a) $$
 
 *  [bookdown](https://bookdown.org/)上面有很多参考书！
 
 * TeX studio
-将以下内容复制粘贴
+  * [UTF8]{ctexart} 显示中文
+  * 参考书：[《ChinaTEX数学排版常见问题集》](http://wenku.baidu.com/link?url=JvOFILtnHq8Faz7azdTIv31k16e_PfMW8TJ9trB4ZIc0Y1SeoAqJueVzN0RNFLAWUcQFoP4h2G48fWH1pJNooKL3Gqhbr6JlZYUZXsSid5y)
+
+#### 将以下内容复制粘贴到TeX studio
+
 \documentclass[UTF8]{ctexart} 
 
 %opening
@@ -37,19 +40,19 @@ comments: true
 \section{social psychology}
 
     我是爱南开的。
-    $ 1 + 1 = 2 $ 行内公式和行间公式
+    行内公式和行间公式的区别：
+    $ 1 + 1 = 2 $ 
     $$ 1 + 1 = 2 $$ 
-    
-    \[
+   
+    \[
     \frac{\mathrm{d}(\mathrm{e}^x)}{\mathrm{d}y} = \mathrm{e}^x
     \]
     
     $\chi^2$
-    
-    参考书：《ChinaTEX数学排版常见问题集》
-    
+      
 \end{document}
 
+#### 将以下内容复制粘贴到TeX studio
 
 \documentclass[hyperref, UTF8]{ctexbook}
 
@@ -88,5 +91,5 @@ comments: true
 \sum\limits_{n = 1}^{\infty} (\frac{1}{2})^n = 1
 \end{align}
 
-
 \end{document}
+
